@@ -115,6 +115,5 @@ Each game is standalone. No global configuration is required.
 - **Graphics not rendering?** Some games may require a display environment (not headless).  
 
 ---
-
-## 👨‍💻 Contributors  
-ash-iiiiish
+## 👨‍💻 Contributors
+- [@ash-iiiiish](https://github.com/ash-iiiiish)
