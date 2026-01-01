@@ -124,7 +124,3 @@ Each game is standalone. No global configuration is required.
 - **129Ashish**   
 - Open for contributions! Submit PRs to add new games.  
 
----
-
-## 📜 License  
-MIT License (You may replace with your preferred license).  
