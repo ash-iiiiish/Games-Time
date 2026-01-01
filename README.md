@@ -122,5 +122,3 @@ Each game is standalone. No global configuration is required.
 
 ## 👨‍💻 Contributors  
 - **129Ashish**   
-- Open for contributions! Submit PRs to add new games.  
-
