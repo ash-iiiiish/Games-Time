@@ -117,4 +117,4 @@ Each game is standalone. No global configuration is required.
 ---
 
 ## 👨‍💻 Contributors  
-- **129Ashish**   
+- **ash-iiiiish**
