@@ -108,9 +108,6 @@ Each game is standalone. No global configuration is required.
 - Launch **Snake** and try to beat your high score.  
 - Play **Tic Tac Toe** with a friend.  
 - Challenge yourself with **Breakout** or **Flappy Bird**.  
-
-(Add screenshots here if available!)  
-
 ---
 
 ## 🛠️ Troubleshooting  
