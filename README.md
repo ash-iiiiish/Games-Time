@@ -61,7 +61,6 @@ Make sure you have JDK installed. Compile with:
 javac rock_paper_scissor_gme.java
 java rock_paper_scissor_gme
 ```
-
 ---
 
 ## 🕹️ Usage  
